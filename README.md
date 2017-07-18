@@ -1,10 +1,38 @@
 
 # Open Science in Practice 2017
 
-- 25-29 September 2017, EPFL Campus
-- https://osip2017.epfl.ch/
+- where: EPFL Campus
+- when: 25-29 September 2017
+- www: https://osip2017.epfl.ch/
 
-## Background
+I will also be giving a shorter version of this talk at the EPFL
+library in the evening.
+
+## An early career researcher's view on modern and open scholarship
+
+### Abstract
+
+If research is the by-product of researchers getting promoted (quote
+by
+[David Barron, Professor of Computer Science](https://en.wikipedia.org/wiki/David_W._Barron)),
+then shouldn't we, early career researchers (ECRs), focus on promotion
+and being docile academic citizens rather than aiming for the more
+nobel cause of pursuing research to understand the world that
+surrounds us, and disseminate our findings using modern channels?
+Indeed,
+[I have already argued](https://lgatto.github.io/open-research-project/) that
+a critical point that is failing us, is the academic promotion of open
+research and open researcher, as a way to promote a more rigorous and
+sound research process and tackle the reproducibility crisis. In this
+talk, I will give present the case for open scholarship from an early
+carrer researcher's perspective, pointing out that being an open
+researcher is not only the *right* thing to do, but is also the *best*
+thing to do.
+
+
+I will be posting my slides here.
+
+## About the meeting
 
 Open science is an umbrella term. It describes a multitude of
 initiatives trying to harvest the potential of digital technologies to
@@ -23,17 +51,3 @@ itself (bottom-up approach). To a lesser extent, it is also a
 technical issue that requires the development of new tools based on
 state-of-the art digital technologies.
 
-## My talks: *An early career researcher's view on modern and open scholarship*
-
-I will be posting my slides here.
-
-### Open Science in Practice 2017
-
-> We would like it if you could intervene as third speaker with a 45
-> minutes presentation (+15 minutes questions) on your motivations for
-> adopting open science practices.
-
-### Open Science at the EPFL library
-
-I will be giving a sceond talk (15 + 5 minutes questions) at the Rolex
-Learning Center in the evening. 
