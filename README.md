@@ -55,3 +55,10 @@ itself (bottom-up approach). To a lesser extent, it is also a
 technical issue that requires the development of new tools based on
 state-of-the art digital technologies.
 
+## Licence
+
+All material is available under a creative common
+[CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
+free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for
+any purpose, even commercially.
