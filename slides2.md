@@ -16,7 +16,7 @@ https://lgatto.github.io           University of Cambridge
 lg390@cam.ac.uk                    @lgatt0
 ```
 
-* Slides: http://bit.ly/20170925OSEPFLshort
+* Slides: http://bit.ly/20170925OSevening
 * Blog post: https://lgatto.github.io/EPFL-open-science/
 
 ## Licence
