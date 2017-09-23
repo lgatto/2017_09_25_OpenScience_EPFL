@@ -43,7 +43,7 @@ any purpose, even commercially.
 
 ## Introduction
 
-* Earcy Career recearchers (ECRs) - **we**
+* Early Career recearchers (ECRs) - **we**
 * Open is a gateway to better research
 * Open Reseach/Science
 
@@ -56,7 +56,7 @@ any purpose, even commercially.
 
 ## What is open research?
 
-Any research output is 
+Any research output should be
 
 * free to access (read)
 * free to use/re-use/mine
@@ -93,8 +93,8 @@ Are these imperatives in line with current practice?
 
 ## Why isn't it open?
 
-> If *research is the by-product of researchers getting promoted* (
-> David Barron), then shouldn't we, early career researchers (ECRs),
+> If *research is the by-product of researchers getting promoted*
+> (David Barron), then shouldn't we, early career researchers (ECRs),
 > focus on promotion and being docile academic citizens rather than
 > aiming for the more nobel cause of pursuing research to understand
 > the world that surrounds us, and disseminate our findings using
@@ -245,7 +245,7 @@ open and ethical research and publication environment.
 
 * Sign the Declaration on Research Assessment ([DORA](http://www.ascb.org/dora/))
 * Positively value the commitment of open research and publishing practices
-* Endorse immediate open publishing and 100% OA, and pre-print
+* Endorse immediate open publishing and 100% OA, and pre-prints
 * Endorse, support and promote the open publication of data and other scientific outputs such as software.
 * Educate researchers about publishing practices
 * Be transparent about costs of publishing
