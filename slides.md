@@ -89,12 +89,12 @@ Are these imperatives in line with current practice?
 
 ## But then...
 
-> Why wouldn't anyone be an open research anyway?
+> Why wouldn't anyone want to do open research?
 
 ## Why isn't it open?
 
 > If *research is the by-product of researchers getting promoted* (
-> David Barron),, then shouldn't we, early career researchers (ECRs),
+> David Barron), then shouldn't we, early career researchers (ECRs),
 > focus on promotion and being docile academic citizens rather than
 > aiming for the more nobel cause of pursuing research to understand
 > the world that surrounds us, and disseminate our findings using
@@ -221,7 +221,6 @@ and hence
 1. Submit your data to a repository, where it get’s checked (by
    specialists, data scientists, data curators) for quality,
    annotation, meta-data.
-
 2. Submit your research with a link to the peer reviewed data. First
    review the intro and methods, then only the results (to avoid
    positive results bibs).
@@ -304,4 +303,3 @@ the
 [Greg Wilson](https://twitter.com/gvwilson) and
 the [Software/Data Carpentry](https://software-carpentry.org/). And
 probably many more.
-
