@@ -33,8 +33,10 @@ thing to do.
 
 
 
+## Material
 
-**I will be posting my slides here.**
+* My slides are available [http://bit.ly/20170925OSEPFL](https://rawgit.com/lgatto/2017_09_25_OpenScience_EPFL/master/slides.html)
+* The blog post is available here.
 
 ## About the meeting
 

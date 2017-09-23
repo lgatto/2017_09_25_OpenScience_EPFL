@@ -16,8 +16,8 @@ https://lgatto.github.io           University of Cambridge
 lg390@cam.ac.uk                    @lgatt0
 ```
 
-* Slides: 
-* Blog post: 
+* Slides: http://bit.ly/20170925OSEPFL
+* Blog post: https://lgatto.github.io/EPFL-open-science/
 
 ## Licence
 
@@ -276,3 +276,32 @@ greater exposure or, can’t always afford to be vocal.
 * Open research is better research.
 * There's more than one open.
 * You want to do more. Yes please! 
+
+
+## 
+
+**Acknowledgements:** I have been influenced by many throughout my
+ongoing journey towards better (open) research. I would like to thank
+some of those that have inspired me, either directly or indirectly,
+along the way. In no particular order, I would like to
+thank
+[Corina Logan](http://corinalogan.com/),
+[Stephen Eglen](https://twitter.com/StephenEglen),
+[Marta Teperek](https://twitter.com/martateperek),
+[Danny Kingsley](https://twitter.com/dannykay68), members of
+the
+[OpenConCam group](http://www.openconcam.org/),
+[Steve Russel](https://twitter.com/sr120),
+[Yvonne Nobis](https://twitter.com/yvonnenobis),
+[Bjoern Brembs](http://bjoern.brembs.net/),
+[Micheal Eisen](http://www.michaeleisen.org/blog/),
+[Peter Murray-Rust](https://twitter.com/petermurrayrust),
+[Rupert Gatti](https://twitter.com/rupertgatti),
+[Tim Gowers](https://gowers.wordpress.com/),
+the [Bioconductor project](https://bioconductor.org/),
+the
+[Software Suistainability Institute](https://www.software.ac.uk/),
+[Greg Wilson](https://twitter.com/gvwilson) and
+the [Software/Data Carpentry](https://software-carpentry.org/). And
+probably many more.
+
