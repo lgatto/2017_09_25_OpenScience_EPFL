@@ -36,7 +36,7 @@ thing to do.
 ## Material
 
 * My slides are available [http://bit.ly/20170925OSEPFL](https://rawgit.com/lgatto/2017_09_25_OpenScience_EPFL/master/slides.html)
-* The blog post is available here.
+* The blog post is available https://lgatto.github.io/EPFL-open-science/
 
 ## About the meeting
 
