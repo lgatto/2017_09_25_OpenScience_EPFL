@@ -29,18 +29,6 @@ any purpose, even commercially.
 
 ![CC-BY](./Figures/cc1.jpg)
 
-## 
-
-* Introduction
-* What is open research
-* Open vs close?
-* Why isn't open?
-* Go open!
-* What can we do?
-* What can institutions do?
-* Inclusivity!
-* Conclusions
-
 ## Introduction
 
 * Early Career researchers (ECR) - **we**
@@ -53,6 +41,18 @@ any purpose, even commercially.
 * ECR, non-established research staff, PI
 * reproducible research, computational research, data, research software 
 * Open scholar
+
+## 
+
+* What is open research
+* Open vs close?
+* Why isn't it open?
+* Go open!
+* What can we do?
+* What can institutions do?
+* Inclusivity!
+* Conclusions
+
 
 ## What is open research?
 
@@ -82,14 +82,14 @@ Are these imperatives in line with current practice?
 
 - Open research is research that enables reproducible and repeatable
   research.
-- Open research is transparent and honest research .
+- Open research is transparent and honest research.
 - Open research is research that we can build upon.
 
 **Open is better, and we should always aim for the better, not the worse.**
 
 ## But then...
 
-> Why wouldn't anyone want to do open research?
+> Why would anyone not want to do open research?
 
 ## Why isn't it open?
 

@@ -77,7 +77,7 @@ And
 
 ## But then...
 
-> Why wouldn't anyone want to do open research?
+> Why would anyone not want to do open research?
 
 If *research is the by-product of researchers getting promoted* (David
 Barron), then shouldn't we, early career researchers (ECRs), focus on
