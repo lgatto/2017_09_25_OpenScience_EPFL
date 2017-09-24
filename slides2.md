@@ -123,7 +123,7 @@ to brush over many of these requirements. In addition, the incentives
 are still inconsequential compared to the (perceived) risks. Maybe we
 need more threads when not being open.
 
-## What can we do as ECR?
+## What can we do?
 
 * Build openness at the core your research
 * Promoting open research through peer review: not data, no review

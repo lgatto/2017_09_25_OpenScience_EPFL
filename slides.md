@@ -189,13 +189,13 @@ to brush over many of these requirements. In addition, the incentives
 are still inconsequential compared to the (perceived) risks. Maybe we
 need more threads when not being open.
 
-## What can we do as ECR?
+## What can we do?
 
 ## Build openness at the core your research
 
 * Many aspects of open research, and arguable the most important ones, can't be implemented as an afterthought.
 * [Open Research Pilot Project](http://osc.cam.ac.uk/open-research/open-research-pilot-project) with the Wellcome Trust and OSC in Cambridge
-* *SpatialMap* - [GitHub repository](https://github.com/SpatialMap/SpatialMapDev) - [Grant proposal blog](https://lgatto.github.io/spatialmap-proposal/)
+* *SpatialMap*: sharing data - [GitHub repository](https://github.com/SpatialMap/SpatialMapDev) - [Grant proposal blog](https://lgatto.github.io/spatialmap-proposal/)
 
 
 ## Promoting open research through peer review
