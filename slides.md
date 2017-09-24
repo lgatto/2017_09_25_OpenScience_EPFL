@@ -70,7 +70,7 @@ And
 
 Mertonian norms of Science (1942)
 
-* **universalism**, **communalism**, **disinterestedness**, **organized scepticism**
+* **universalism**, **communalism**, **disinterestedness**, **organised scepticism**
 
 Are these imperatives in line with current practice?
 
