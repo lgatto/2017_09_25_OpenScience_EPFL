@@ -18,6 +18,7 @@ lg390@cam.ac.uk                    @lgatt0
 
 * Slides: http://bit.ly/20170925OSevening
 * Blog post: https://lgatto.github.io/EPFL-open-science/
+* [![DOI](https://zenodo.org/badge/97600795.svg)](https://zenodo.org/badge/latestdoi/97600795)
 
 ## Licence
 
