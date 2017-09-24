@@ -18,6 +18,7 @@ lg390@cam.ac.uk                    @lgatt0
 
 * Slides: http://bit.ly/20170925OpenScienceEPFL
 * Blog post: https://lgatto.github.io/EPFL-open-science/
+* GitHub repo: http://github.com/lgatto/2017_09_25_OpenScience_EPFL
 
 ## Licence
 
@@ -263,12 +264,23 @@ href="https://twitter.com/CameronNeylon/status/895546764861853696">August
 10, 2017</a></blockquote> <script async
 src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 
+##
 
-Even if there are efforts to promote diversity, under-represented
-minorities (URM) don’t necessarily feel included. When it comes to
-open science/research URMs can be further discriminated against by
-greater exposure or, can’t always afford to be vocal.
+<blockquote class="twitter-tweet" data-conversation="none"
+data-lang="en"><p lang="en" dir="ltr">It was a damned hard community
+to break into. Any step I took to be more open, I felt attacked for
+not doing enough/doing it right.</p>&mdash; Christie Bahlai (@cbahlai)
+<a href="https://twitter.com/cbahlai/status/871413258107981824">June
+4, 2017</a></blockquote> <script async
+src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<!-- ##  -->
+
+<!-- Even if there are efforts to promote diversity, under-represented -->
+<!-- minorities (URM) don’t necessarily feel included. When it comes to -->
+<!-- open science/research URMs can be further discriminated against by -->
+<!-- greater exposure or, can’t always afford to be vocal. -->
 
 ## Conclusions
 
@@ -303,3 +315,11 @@ the
 [Greg Wilson](https://twitter.com/gvwilson) and
 the [Software/Data Carpentry](https://software-carpentry.org/). And
 probably many more.
+
+## 
+
+The material is available at:
+
+* Slides: http://bit.ly/20170925OpenScienceEPFL
+* Blog post: https://lgatto.github.io/EPFL-open-science/
+* GitHub repo: http://github.com/lgatto/2017_09_25_OpenScience_EPFL
