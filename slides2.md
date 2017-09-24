@@ -93,10 +93,10 @@ political.
 - Sytemic control and inertia
 - Vested interests by people in charge 
 - Abuse of power dynamics
-- (Preceived) fear of being scooped, or not being credited
-- (Preceived) fear of errors and public humiliation, risk for reputation
-- (Preceived) fear of information overload
-- (Preceived) fear of becoming less competitive in a overcompetitive market!
+- (Perceived) fear of being scooped, or not being credited
+- (Perceived) fear of errors and public humiliation, risk for reputation
+- (Perceived) fear of information overload
+- (Perceived) fear of becoming less competitive in a over-competitive market!
 - ...
 
 ## Go OPEN! 
