@@ -10,11 +10,11 @@ library in the evening.
 
 ## An early career researcher's view on modern and open scholarship
 
+[![DOI](https://zenodo.org/badge/97600795.svg)](https://zenodo.org/badge/latestdoi/97600795)
+
 ### Abstract
 
-If *research is the by-product of researchers getting promoted* (a
-quote
-by
+If *research is the by-product of researchers getting promoted* (a quote by
 [David Barron, Professor of Computer Science](https://en.wikipedia.org/wiki/David_W._Barron),
 Prof. Leslie Carr, personal communication), then shouldn't we, early
 career researchers (ECRs), focus on promotion and being docile
@@ -37,7 +37,6 @@ thing to do.
 
 * My slides are available [http://bit.ly/20170925OSEPFL](https://rawgit.com/lgatto/2017_09_25_OpenScience_EPFL/master/slides.html)
 * The blog post is available https://lgatto.github.io/EPFL-open-science/
-
 ## About the meeting
 
 Open science is an umbrella term. It describes a multitude of
