@@ -43,9 +43,9 @@ any purpose, even commercially.
 
 ## Introduction
 
-* Early Career recearchers (ECRs) - **we**
+* Early Career researchers (ECR) - **we**
 * Open is a gateway to better research
-* Open Reseach/Science
+* Open Research/Science
 
 ## Who?
 
@@ -96,7 +96,7 @@ Are these imperatives in line with current practice?
 > If *research is the by-product of researchers getting promoted*
 > (David Barron), then shouldn't we, early career researchers (ECRs),
 > focus on promotion and being docile academic citizens rather than
-> aiming for the more nobel cause of pursuing research to understand
+> aiming for the more noble cause of pursuing research to understand
 > the world that surrounds us, and disseminate our findings using
 > modern channels?
 
@@ -105,7 +105,7 @@ Are these imperatives in line with current practice?
 Barriers are not technological, but rather socio-cultural and
 political.
 
-- Sytemic control and inertia
+- Systemic control and inertia
 - Vested interests by people in charge 
 - Abuse of power dynamics
 - (Perceived) fear of being scooped
@@ -117,7 +117,7 @@ political.
 
 ## Go OPEN! 
 
-Open science/research is particularly important for ERCs. Open
+Open science/research is particularly important for ECRs. Open
 research practices are here, and won't go away. It is clear that they
 will increase in the near future. If *you*, as an ECR, want to be a
 competitive researcher in the coming years (and you'll need to be),
@@ -178,7 +178,7 @@ The EU's
 <img with="700" src="https://dfzljdn9uc3pi.cloudfront.net/2013/175/1/fig-1-1x.jpg">
 
 
-## Reproducbile research
+## Reproducible research
 
 [![Faculty promotion must assess reproducibility](./Figures/2017-09-22-promotion-rr.png)](https://www.nature.com/news/faculty-promotion-must-assess-reproducibility-1.22596)
 
@@ -200,7 +200,7 @@ need more threads when not being open.
 
 ## Promoting open research through peer review
 
-* Accept sound/valid research and provide constuctive comments
+* Accept sound/valid research and provide constructive comments
 
 and hence
 
@@ -208,7 +208,7 @@ and hence
   data, software and method. If the methods and/or data fail, the rest
   is meaningless.
 
-## Reer review tips
+## Peer review tips
 
 - Availability and meta-data
 - Do numbers match?
@@ -299,7 +299,7 @@ the
 [Tim Gowers](https://gowers.wordpress.com/),
 the [Bioconductor project](https://bioconductor.org/),
 the
-[Software Suistainability Institute](https://www.software.ac.uk/),
+[Software Sustainability Institute](https://www.software.ac.uk/),
 [Greg Wilson](https://twitter.com/gvwilson) and
 the [Software/Data Carpentry](https://software-carpentry.org/). And
 probably many more.

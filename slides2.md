@@ -46,7 +46,7 @@ any purpose, even commercially.
 * Laurent Gatto: ECR, non-established research staff, PI
 * Reproducible research, computational research, data, research
   software
-* Open scholar, and convinved that open is a gateway to better
+* Open scholar, and convinced that open is a gateway to better
   research
 
 ## What is open research/science?
@@ -82,7 +82,7 @@ And
 If *research is the by-product of researchers getting promoted* (David
 Barron), then shouldn't we, early career researchers (ECRs), focus on
 promotion and being docile academic citizens rather than aiming for
-the more nobel cause of pursuing research to understand the world that
+the more noble cause of pursuing research to understand the world that
 surrounds us, and disseminate our findings using modern channels?
 
 ## 
@@ -90,7 +90,7 @@ surrounds us, and disseminate our findings using modern channels?
 Barriers are not technological, but rather socio-cultural and
 political.
 
-- Sytemic control and inertia
+- Systemic control and inertia
 - Vested interests by people in charge 
 - Abuse of power dynamics
 - (Perceived) fear of being scooped, or not being credited
@@ -101,7 +101,7 @@ political.
 
 ## Go OPEN! 
 
-Open science/research is particularly important for ERCs. Open
+Open science/research is particularly important for ECRs. Open
 research practices are here, and won't go away. It is clear that they
 will increase in the near future. If *you*, as an ECR, want to be a
 competitive researcher in the coming years (and you'll need to be),
