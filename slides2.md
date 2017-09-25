@@ -30,37 +30,18 @@ any purpose, even commercially.
 
 ![CC-BY](./Figures/cc1.jpg)
 
-## 
+## What is open research?
 
-* Introduction
-* What is open research
-* Open vs close?
-* Why isn't open?
-* Go open!
-* What can we do?
-* What can institutions do?
-* Inclusivity!
-* Conclusions
+- Free to read/access: no barriers to access knowledge
+- Free to re-use (data, software, text and data mining, ...)
 
-## 
+But also
 
-* Laurent Gatto: ECR, non-established research staff, PI
-* Reproducible research, computational research, data, research
-  software
-* Open scholar, and convinced that open is a gateway to better
-  research
-
-## What is open research/science?
-
-Any research output should be 
-
-* free to access (read)
-* free to use/re-use/mine
-* free to disseminate (publish)
+- Free to publish
 
 And
 
-* inclusive
+* Inclusive
 
 ## Open is a gateway to more trustworthy research
 
@@ -111,7 +92,7 @@ you'll need to be well versed in open research practices.
 ## Incentives
 
 * Funders' requirements: CC-BY Open access, research output management
-  plans (data, software, antibodies, ...), Open data mandatory for H2020, ...
+  plans (data, software, antibodies, ...), open data mandatory for H2020, ...
 * Acceptance of open practice: pre-prints (WT, MRC, NIH).
 * Open science evaluation criteria: EU's [Evaluation of Research Careers fully acknowledging Open Science Practice](https://cdn1.euraxess.org/sites/default/files/policy_library/os-rewards-wgreport-final_integrated_0.pdf) defines an Open Science Career Assessment Matrix.
 * Open access and data availability lead to more citations.
@@ -127,16 +108,19 @@ need more threads when not being open.
 ## What can we do?
 
 * Build openness at the core your research
-* Promoting open research through peer review: not data, no review
-* [Five selfish reasons to work reproducibly](https://doi.org/10.1186/s13059-015-0850-7)
-* Promoting open research/science: [No researcher is too junior to fix science](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)
+* Promoting open research through peer review: no data/meta-data/metadata/software, ... no review
+* [Five selfish reasons to work reproducibly](https://doi.org/10.1186/s13059-015-0850-7):
+  Avoid disaster, easier to write papers, helps reviewing, continuity
+  in your work, reputations
+* Promoting open research/science:
+  [No researcher is too junior to fix science](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)
 
 ## Institutions: the [BulliedIntoBadScience](http://bulliedintobadscience.org/) campaign
 
 * Sign the Declaration on Research Assessment ([DORA](http://www.ascb.org/dora/))
 * Positively value the commitment of open research and publishing practices
 * Endorse immediate open publishing and 100% OA, and pre-prints
-* Endorse, support and promote the open publication of data and other scientific outputs such as software.
+* Endorse, support and promote the open publication of all research outputs
 * Educate researchers about publishing practices
 * Be transparent about costs of publishing
 * Make all ECRs full voting members of their institutions
@@ -157,3 +141,7 @@ src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 * Open research is better research.
 * There's more than one open.
 * You want to do more. Yes please! 
+
+> **Thank you for your attention** 
+
+* Blog post: https://lgatto.github.io/EPFL-open-science/

@@ -254,6 +254,14 @@ open and ethical research and publication environment.
 * Be transparent about costs of publishing
 * Make all postdocs and ECRs full voting members of their institutions
 
+## 
+
+> Whether you are an ECR or a senior academic,
+> [sign](http://bulliedintobadscience.org/#ecrs:_sign_the_letter) our letter or
+> [support us](http://bulliedintobadscience.org/#non-ecrs:_support_the_campaign) and
+> our campaign at http://BulliedIntoBadScience.org/!
+
+
 
 ## Inclusivity: open science and open science
 
